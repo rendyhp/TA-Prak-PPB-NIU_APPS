@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459174446062",
+    "project_id": "niu-apps",
+    "storage_bucket": "niu-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459174446062:android:03fd3e33f0b1c29b5604ff",
+        "android_client_info": {
+          "package_name": "com.example.ta_ppb_niu_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSfPf5dDGLWN2D2q0RWQfD_JEcOCLJ2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
